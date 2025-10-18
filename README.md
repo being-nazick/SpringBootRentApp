@@ -69,7 +69,7 @@ The application is configured to use MySQL database with the following settings:
 - **Database**: `Rentapp`
 - **Port**: `3306`
 - **Username**: `root`
-- **Password**: `Princezick@2002`
+- **Password**: `*@*@`
 - **Server Port**: `8082`
 
 ## 🔌 API Endpoints
